@@ -1,0 +1,6 @@
+{
+  "name": "Recruitment MIS",
+  "description": "Professional Recruitment Management Information System with real-time Google Sheets database sync, bulk Excel parsing, multi-campaign management, and global talent benching interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
